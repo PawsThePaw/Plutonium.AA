@@ -3,4 +3,4 @@
 --Aspect X is Recontinued BTW!
 --This script is Skidded But I gave Credits.
 --use the Loadstring Provided And not This.
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/Plutonium%201.0.0K.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/Plutonium.txt"))()
