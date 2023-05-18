@@ -3,17 +3,17 @@
 --Aspect X is Recontinued BTW!
 --use the Loadstring Provided And not This.
 
-if Drawing then
 
-        print("Drawing.new Supported")
+
+
 
         loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/pluto/main/Plutonium1.txt"))()
 
-else 
 
-        print("Drawing.new Not Supported")
 
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/pluto/main/Plutonium2.txt"))()
 
-end
+
+
+
+
 
