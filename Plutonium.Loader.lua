@@ -1,13 +1,10 @@
---This Script is Copyrighted If you Managed To Deobfuscate Well then Keep it To yourself Or I will sue yo momma
---This is The auto Update shit If u use the loadstring Down here You won't get Updates
---Aspect X is Recontinued BTW!
---use the Loadstring Provided And not This.
---Usually Gets Updated Every atleast once in 2 weeks
+--//Hello This Is Paws, Please Do Not Use This Loadstring Because This Is The Reason How Your Getting Updates.
 
-
-
-
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/V3.1.0.txt"))()
+--// • Obfuscated: Yes
+--// • Version: V3.1.0
+--// • Discord Server: https://discord.gg/vKfJNqC2US
+--// • Developers: Paws
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/V3.1.0.txt", true))()
 
 
 
