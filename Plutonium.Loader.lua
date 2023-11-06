@@ -7,7 +7,7 @@
 
 
 
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/PV3.0.9.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/V3.1.0.txt"))()
 
 
 
