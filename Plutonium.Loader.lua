@@ -4,7 +4,19 @@
 --// • Version: V3.1.0
 --// • Discord Server: https://discord.gg/vKfJNqC2US
 --// • Developers: Paws
-game.Players.LocalPlayer:Kick("Hello, This Is The Creator Of The Script, I Am Terribly Sorry For Plutonium Being Down, It Is Due For It Being Stolen And Used Without Permission, Plutonium V3 Is Not Discontinued, It Is Just Facing Down Time, Come Back Another Time! Issue Will Be Resolved Soon - Plutonium V3 Owner, PawsThePaw")
+game.StarterGui:SetCore("SendNotification", {
+Title = "Important Notification";
+Text = " PawsThePaw, OUR OFFICIAL DISCORD SERVER IS AT: https://discord.gg/NttVPHV7WA IF YOU GOT THIS SCRIPT FROM A SERVER NAMED YU HUB THEY JUST STOLE MY STUFF";
+Icon = ""; 
+Duration = 45;
+})
+game.StarterGui:SetCore("SendNotification", {
+Title = "Important Notification";
+Text = "https://discord.gg/NttVPHV7WA PLEASE LEAVE YU HUB DISCORD SERVER IMMEDIATELY THEY ARE JUST STEALING STUFF FROM ME! - PawsThePaw";
+Icon = ""; 
+Duration = 45;
+})
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/3.1.1.txt", true))()
 
 
 
