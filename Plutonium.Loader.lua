@@ -16,7 +16,7 @@ Text = "https://discord.gg/NttVPHV7WA PLEASE LEAVE YU HUB DISCORD SERVER IMMEDIA
 Icon = ""; 
 Duration = 45;
 })
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/3.1.1.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/3.1.2.txt", true))()
 
 
 
