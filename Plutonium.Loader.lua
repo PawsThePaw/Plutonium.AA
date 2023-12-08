@@ -5,7 +5,8 @@
 --// • Discord Server: https://discord.gg/vKfJNqC2US
 --// • Developers: PawsThePaw
 --// • Owner: PawsThePaw
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/V3.2.1.txt", true))()
+--// • Average Updates Per Week: 1 - 3
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/V3.2.2.txt", true))()
 
 
 
