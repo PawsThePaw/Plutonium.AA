@@ -1,12 +1,12 @@
 --//Hello This Is Paws, Please Do Not Use This Loadstring Because This Is The Reason How Your Getting Updates.
 
 --// • Obfuscated: Yes
---// • Version: 3.2.0
+--// • Version: 3.2.3
 --// • Discord Server: https://discord.gg/vKfJNqC2US
 --// • Developers: PawsThePaw
 --// • Owner: PawsThePaw
 --// • Average Updates Per Week: 1 - 3
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/V3.2.2.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/V3.2.3.txt", true))()
 
 
 
