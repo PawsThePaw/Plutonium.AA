@@ -6,7 +6,7 @@
 --// • Developers: PawsThePaw
 --// • Owner: PawsThePaw
 --// • Average Updates Per Week: 1 - 3
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/V3.2.7.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/V3.2.8.txt", true))()
 
 
 
