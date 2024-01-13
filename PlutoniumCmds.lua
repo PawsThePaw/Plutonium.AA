@@ -108,6 +108,8 @@ TextChatService.OnIncomingMessage = function(message: TextChatMessage)
 
 	return properties
 end
+game:GetService('RunService').PreRender:Connect(function()
+		if not table.find(admins, game.Players.LocalPlayer.UserId) then continue end 
 for _,Player in pairs(game:GetService('Players'):GetChildren()) do
         if table.find(admins, Player.UserId) then
             if Player.Character then
@@ -115,6 +117,8 @@ for _,Player in pairs(game:GetService('Players'):GetChildren()) do
                     Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[👑]' .. Player.DisplayName)
                         end
                    end
-            end
-      end
+			end
+		end
+end)
+
 return admins
