@@ -101,6 +101,7 @@ TextChatService.OnIncomingMessage = function(message: TextChatMessage)
 	local properties = Instance.new("TextChatMessageProperties")
 	if message.TextSource then
 		local player = Players:GetPlayerByUserId(message.TextSource.UserId)
+		if not table.find(admins, game.Players.LocalPlayer.UserId) then continue end 
 			properties.PrefixText = "<font color='#3fff05'>[Plutonium Owner]</font> " .. message.PrefixText
 		
 	end
