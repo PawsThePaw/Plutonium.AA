@@ -72,6 +72,7 @@ adminHandler.OnCommand = function (message, handler)
   end
   
   if command == "reveal" then
+	task.wait(2)
         handler.reply("Hello Paws! Its Good To See You")
   end
   
