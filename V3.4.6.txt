@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.Utilities/main/77_4RAZG.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Ez/main/Protected_4130295880896130.lua.txt"))()
