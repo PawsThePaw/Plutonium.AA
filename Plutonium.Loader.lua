@@ -8,7 +8,7 @@
 --// • Average Updates Per Week: 1 - 3
 --// • Fps Drops Estimate: 1 - 5 FPS
 --// • Great When Used On [Ping]: 0 - 230ms
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/V3.4.6.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/V3.4.5.txt", true))()
 
 
 
