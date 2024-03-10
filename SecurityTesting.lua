@@ -1,2 +1,1 @@
-local x,z,a,b,c,d,_ = ...
-print(x,z,a,b,c,d,_)
+--nil
