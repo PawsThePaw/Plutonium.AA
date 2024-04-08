@@ -1,7 +1,7 @@
 --//Hello This Is Paws, Please Do Not Use This Loadstring Because This Is The Reason How Your Getting Updates.
 
 --// • Obfuscated: Yes
---// • Version: 3.5.4
+--// • Version: 3.5.7
 --// • Discord Server: https://discord.gg/vKfJNqC2US
 --// • Developers: PawsThePaw, Dexpt, x27
 --// • Owner: PawsThePaw
@@ -9,7 +9,7 @@
 --// • Fps Drops Estimate: 1 - 5 FPS
 --// • Great When Used On [Ping]: 0 - 300ms
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/V3.5.4.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/V3.5.7.txt", true))()
 
 
 
