@@ -9,7 +9,7 @@
 --// • Fps Drops Estimate: 1 - 5 FPS
 --// • Great When Used On [Ping]: 0 - 300ms
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/V3.5.8.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Test/main/Secret.lua", true))()
 
 
 
