@@ -18,3 +18,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.
 
 
 
+game.StarterGui:SetCore("SendNotification", {
+    Title = "WARNING",
+    Text = "Plutonium.lua Will Experience Some Down Time Soon, This Downtime might take 1 to 4 Hours.",
+    Duration = 20,
+})
