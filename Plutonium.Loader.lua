@@ -9,18 +9,4 @@
 --// • Fps Drops Estimate: 1 - 5 FPS
 --// • Great When Used On [Ping]: 0 - 300ms
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/V3.6.3.txt", true))()
-
-
-
-
-
-
-
-
-
-game.StarterGui:SetCore("SendNotification", {
-    Title = "WARNING",
-    Text = "Plutonium.lua Will Experience Some Down Time Soon, This Downtime might take 1 to 4 Hours.",
-    Duration = 20,
-})
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/Versions/V3.6.3.txt", true))()
