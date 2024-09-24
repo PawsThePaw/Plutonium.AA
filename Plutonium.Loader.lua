@@ -27,4 +27,4 @@
 
 
 --// BY EXECUTING YOUR SCRIPT YOU THEREFOR ACCEPT SHARING YOUR DATA WITH US FOR STATISTICS PURPOSES [Your Username, UserId, Game Your in, thats all.] \\--
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/Versions/V3.6.6.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/refs/heads/main/Versions/V3.6.7.txt", true))()
