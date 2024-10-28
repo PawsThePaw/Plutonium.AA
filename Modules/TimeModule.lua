@@ -12,7 +12,7 @@ local UTC_Local_Offset = UTCOffset - LocalOffset
 local TimeModule = {}
 
 function TimeModule:Tick()
-    return os.clock() + UTCOffset
+    return os.clock()
 end
 
 function TimeModule:UTC()
