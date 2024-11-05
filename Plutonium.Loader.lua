@@ -16,7 +16,7 @@
 
 --// • Owner: PawsThePaw
 --// • Obfuscated: Yes
---// • Version: 3.6.8
+--// • Version: 3.7.2
 --// • Libraries & Modules: 6
 --// • Developement Speed: Very Slow
 --// • Discord Server: https://discord.com/invite/rGVUA8Hp
@@ -25,4 +25,4 @@
 --// • Average Load Time: 0 - 10 Seconds
 --// • Average System Downtimes: N/A
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/refs/heads/main/Versions/V3.7.1.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/refs/heads/main/Versions%202/V3.7.2.txt", true))()
