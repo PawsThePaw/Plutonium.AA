@@ -11,6 +11,19 @@
                                                                                                        
 --]]
 
+--[[
+    ////////////////////////////////////////
+    //   © 2023 - 2024 Plutonium.lua      //
+    //       All rights reserved          //
+    ////////////////////////////////////////
+    //     This material may not be       //
+    //     reproduced, displayed,         //
+    //     modified, or distributed       //
+    //     without the express prior      //
+    //     written permission of the      //
+    //         copyright holder.          //
+    ////////////////////////////////////////
+]]
 
 --// • MAIN DETAILS • \\ --w
 
