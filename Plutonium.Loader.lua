@@ -44,8 +44,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.
 game.StarterGui:SetCore(
         "SendNotification",
         {
-            Title = "Plutonium.lua,
+            Title = "Plutonium.lua",
             Text = "Blade Ball is under repair please be patient!!",
             Duration = 60
-        }
+        },
     )
