@@ -47,5 +47,5 @@ game.StarterGui:SetCore(
             Title = "Plutonium.lua",
             Text = "Blade Ball is under repair please be patient!!",
             Duration = 60
-        },
+        }
     )
