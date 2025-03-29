@@ -39,13 +39,3 @@
 --// • Average System Downtimes: N/A
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/refs/heads/main/Versions%202/V3.7.6.txt", true))()
-
-
-game.StarterGui:SetCore(
-        "SendNotification",
-        {
-            Title = "Plutonium.lua",
-            Text = "Blade Ball is under repair please be patient!!",
-            Duration = 60
-        }
-    )
