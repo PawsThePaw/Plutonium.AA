@@ -25,7 +25,7 @@
     ////////////////////////////////////////
 ]]
 
---// • MAIN DETAILS • \\ --w
+--// • MAIN DETAILS • \\--
 
 --// • Owner: PawsThePaw
 --// • Obfuscated: Yes
