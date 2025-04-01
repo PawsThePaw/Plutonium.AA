@@ -29,7 +29,7 @@
 
 --// • Owner: PawsThePaw
 --// • Obfuscated: Yes
---// • Version: 3.7.7
+--// • Version: APRIL FOOLS
 --// • Libraries & Modules: 6
 --// • Developement Speed: Very Slow
 --// • Discord Server: https://discord.com/invite/rGVUA8Hp
@@ -38,4 +38,4 @@
 --// • Average Load Time: 0 - 10 Seconds
 --// • Average System Downtimes: N/A
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/refs/heads/main/Versions%202/V3.7.7.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/refs/heads/main/April%20Fools%20Versions/April%20Fools%202025.txt", true))()
