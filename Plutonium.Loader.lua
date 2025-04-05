@@ -38,4 +38,4 @@
 --// • Average Load Time: 0 - 10 Seconds
 --// • Average System Downtimes: N/A
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/refs/heads/main/Versions%202/V3.7.8.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/refs/heads/main/Versions%202/V3.7.9.txt", true))()
