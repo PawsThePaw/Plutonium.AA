@@ -6,7 +6,8 @@ local Iunderstand = Instance.new("TextButton")
 local UICorner = Instance.new("UICorner")
 
 Notify.Name = "Notify"
-Notify.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+Notify.Parent = game.CoreGui
+Notify.ResetOnSpawn = false
 Notify.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 NotificationFrame.Name = "NotificationFrame"
@@ -42,7 +43,7 @@ Description.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Description.BorderSizePixel = 0
 Description.Size = UDim2.new(0.999096394, 0, 1, 0)
 Description.Font = Enum.Font.SourceSans
-Description.Text = "To activate the script, you must manually parry once first. Read this Please."
+Description.Text = "To activate the script, you must manually parry once first. Read this Please. THE UI WONT SHOW UP UNTIL YOU PARRY FIRST!"
 Description.TextColor3 = Color3.fromRGB(255, 255, 255)
 Description.TextScaled = true
 Description.TextSize = 14.000
