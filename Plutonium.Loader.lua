@@ -11,19 +11,6 @@
                                                                                                        
 --]]
 
---[[
-    ////////////////////////////////////////
-    //   © 2023 - 2024 Plutonium.lua      //
-    //       All rights reserved          //
-    ////////////////////////////////////////
-    //     This material may not be       //
-    //     reproduced, displayed,         //
-    //     modified, or distributed       //
-    //     without the express prior      //
-    //     written permission of the      //
-    //         copyright holder.          //
-    ////////////////////////////////////////
-]]
 
 --// • MAIN DETAILS • \\-- 
 
@@ -37,5 +24,6 @@
 --// • Average Updates Per Week: 1 - 3
 --// • Average Load Time: 0 - 10 Seconds
 --// • Average System Downtimes: N/A
+--// • License: Please read me
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/refs/heads/main/Versions%202/V3.8.0.txt", true))()
